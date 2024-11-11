@@ -1,0 +1,26 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    max-width: 1000px; /* Maximale Breite des Inhalts */
+    margin: 0px auto;    /* Zentriert den Container horizontal */
+    text-align: center; /* Zentriert den Text innerhalb des Containers */
+}
+
+
+h1 {
+    text-align: center;
+    background-color: beige;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: left;
+}
+
+img {
+    width: 500px;
+}
